@@ -8,6 +8,7 @@ The objective of this experiment is to design, implement, and evaluate a Deep Le
 
 ## Neural Network Model
 Include the neural network model diagram.
+<img width="1095" height="745" alt="542714748-b2141eb2-ad6c-4f3d-8419-c8126c9732b7" src="https://github.com/user-attachments/assets/a10c57a4-bf02-4043-9a23-10da995e3d1c" />
 
 ## DESIGN STEPS
 ### STEP 1: 
